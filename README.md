@@ -52,6 +52,17 @@ Write the detailed procedure here
 **Output Timing Waveform**
 
 **Result:**
+logic diagram for full adder:
+<img width="694" height="345" alt="Screenshot 2025-10-07 171222" src="https://github.com/user-attachments/assets/cde2d1d0-7970-4f54-8015-90e38a59e242" />
+state diagram for full adder:
+<img width="1915" height="261" alt="Screenshot 2025-10-07 171828" src="https://github.com/user-attachments/assets/992eb1b8-a77e-4a41-b38a-cc28d38a7b77" />
+logic diagram for full subtractor:
+<img width="863" height="433" alt="Screenshot 2025-10-07 173255" src="https://github.com/user-attachments/assets/bb7f4ff0-6b13-42f0-9449-c63eb1cd0137" />
+state diagram for full subtractor:
+<img width="1916" height="235" alt="Screenshot 2025-10-07 173508" src="https://github.com/user-attachments/assets/860b0c93-9ff7-4683-b33d-4f5097eefdbf" />
+
+
+
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
